@@ -110,12 +110,12 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: maxiao1991
 
 
 #################################### global configure #######################################
 
-username: maxiaocpp
+username: maxiao1991
 baseurl: /blog
 markdown: redcarpet
 safe: false
